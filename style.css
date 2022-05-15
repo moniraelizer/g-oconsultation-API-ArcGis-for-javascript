@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(247, 239, 132)
+    }
+h1 {
+    font-size: 50px;
+    color: #2F4F4F;
+    }
+#viewDiv  {
+    width: 1500px;
+    height: 700px;
+    margin-bottom: 10px;
+    }
